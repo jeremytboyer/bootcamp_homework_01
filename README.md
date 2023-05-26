@@ -1,4 +1,4 @@
-# bootcamp_homework_01_horiseon
+# horiseon_website_challenge
 
 ## Description
 
